@@ -1,0 +1,23 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "forkify project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roshita02/Forkify.git"
+  },
+  "author": "Roshita shakya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roshita02/Forkify/issues"
+  },
+  "homepage": "https://github.com/roshita02/Forkify#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2"
+  },
+  "dependencies": {}
+}
